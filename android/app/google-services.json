@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520016945470",
+    "project_id": "myqr-b5624",
+    "storage_bucket": "myqr-b5624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520016945470:android:e3581b294298b49f568c6f",
+        "android_client_info": {
+          "package_name": "com.peter.myqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520016945470-uks242e5ch75l6htjudd7mq0gdb1v124.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4pKS3t7CVdYDCFGyu1jXwLTmi4JXpW34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520016945470-uks242e5ch75l6htjudd7mq0gdb1v124.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
